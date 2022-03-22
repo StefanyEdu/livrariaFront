@@ -46,4 +46,3 @@ A primeira vez que vc clona o projeto deve instalar o :
 npm install
 
 //para que ele adicione a dependencia @node_moludes
-# livrariaFront
